@@ -1,10 +1,12 @@
-package com.java.book.app;
+package jp.co.acroquest.javabook.maven;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 import java.util.Properties;
 import org.junit.Test;
+
+import jp.co.acroquest.javabook.maven.App;
 
 /**
 * {@link App} のテストプログラム。

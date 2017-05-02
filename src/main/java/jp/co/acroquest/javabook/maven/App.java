@@ -1,4 +1,4 @@
-package com.java.book.app;
+package jp.co.acroquest.javabook.maven;
 
 import java.io.Reader;
 import java.io.InputStreamReader;
