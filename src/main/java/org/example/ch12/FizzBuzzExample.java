@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ch12;
 
 public class FizzBuzzExample {
     public static String fizzBuzz(int num) {
